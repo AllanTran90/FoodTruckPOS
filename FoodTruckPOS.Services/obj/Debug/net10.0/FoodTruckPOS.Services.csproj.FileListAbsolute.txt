@@ -1,0 +1,16 @@
+/Users/allan/Documents/side_stuff/Side-stuff/FoodTruckPOS/FoodTruckPOS.Services/obj/Debug/net10.0/FoodTruckPOS.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/allan/Documents/side_stuff/Side-stuff/FoodTruckPOS/FoodTruckPOS.Services/obj/Debug/net10.0/FoodTruckPOS.Services.AssemblyInfoInputs.cache
+/Users/allan/Documents/side_stuff/Side-stuff/FoodTruckPOS/FoodTruckPOS.Services/obj/Debug/net10.0/FoodTruckPOS.Services.AssemblyInfo.cs
+/Users/allan/Documents/side_stuff/Side-stuff/FoodTruckPOS/FoodTruckPOS.Services/obj/Debug/net10.0/FoodTruckPOS.Services.csproj.CoreCompileInputs.cache
+/Users/allan/Documents/side_stuff/Side-stuff/FoodTruckPOS/FoodTruckPOS.Services/obj/Debug/net10.0/FoodTruckPOS.Services.sourcelink.json
+/Users/allan/Documents/side_stuff/Side-stuff/FoodTruckPOS/FoodTruckPOS.Services/obj/Debug/net10.0/FoodTruckPOS.Services.csproj.AssemblyReference.cache
+/Users/allan/Documents/side_stuff/Side-stuff/FoodTruckPOS/FoodTruckPOS.Services/bin/Debug/net10.0/FoodTruckPOS.Services.deps.json
+/Users/allan/Documents/side_stuff/Side-stuff/FoodTruckPOS/FoodTruckPOS.Services/bin/Debug/net10.0/FoodTruckPOS.Services.dll
+/Users/allan/Documents/side_stuff/Side-stuff/FoodTruckPOS/FoodTruckPOS.Services/bin/Debug/net10.0/FoodTruckPOS.Services.pdb
+/Users/allan/Documents/side_stuff/Side-stuff/FoodTruckPOS/FoodTruckPOS.Services/bin/Debug/net10.0/FoodTruckPOS.Core.dll
+/Users/allan/Documents/side_stuff/Side-stuff/FoodTruckPOS/FoodTruckPOS.Services/bin/Debug/net10.0/FoodTruckPOS.Core.pdb
+/Users/allan/Documents/side_stuff/Side-stuff/FoodTruckPOS/FoodTruckPOS.Services/obj/Debug/net10.0/FoodTruc.40E1973C.Up2Date
+/Users/allan/Documents/side_stuff/Side-stuff/FoodTruckPOS/FoodTruckPOS.Services/obj/Debug/net10.0/FoodTruckPOS.Services.dll
+/Users/allan/Documents/side_stuff/Side-stuff/FoodTruckPOS/FoodTruckPOS.Services/obj/Debug/net10.0/refint/FoodTruckPOS.Services.dll
+/Users/allan/Documents/side_stuff/Side-stuff/FoodTruckPOS/FoodTruckPOS.Services/obj/Debug/net10.0/FoodTruckPOS.Services.pdb
+/Users/allan/Documents/side_stuff/Side-stuff/FoodTruckPOS/FoodTruckPOS.Services/obj/Debug/net10.0/ref/FoodTruckPOS.Services.dll

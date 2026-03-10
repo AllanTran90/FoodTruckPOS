@@ -1,0 +1,15 @@
+/Users/allan/Documents/side_stuff/Side-stuff/FoodTruckPOS/FoodTruckPOS.Tests/bin/Debug/net10.0/FoodTruckPOS.Tests
+/Users/allan/Documents/side_stuff/Side-stuff/FoodTruckPOS/FoodTruckPOS.Tests/bin/Debug/net10.0/FoodTruckPOS.Tests.deps.json
+/Users/allan/Documents/side_stuff/Side-stuff/FoodTruckPOS/FoodTruckPOS.Tests/bin/Debug/net10.0/FoodTruckPOS.Tests.runtimeconfig.json
+/Users/allan/Documents/side_stuff/Side-stuff/FoodTruckPOS/FoodTruckPOS.Tests/bin/Debug/net10.0/FoodTruckPOS.Tests.dll
+/Users/allan/Documents/side_stuff/Side-stuff/FoodTruckPOS/FoodTruckPOS.Tests/bin/Debug/net10.0/FoodTruckPOS.Tests.pdb
+/Users/allan/Documents/side_stuff/Side-stuff/FoodTruckPOS/FoodTruckPOS.Tests/obj/Debug/net10.0/FoodTruckPOS.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/allan/Documents/side_stuff/Side-stuff/FoodTruckPOS/FoodTruckPOS.Tests/obj/Debug/net10.0/FoodTruckPOS.Tests.AssemblyInfoInputs.cache
+/Users/allan/Documents/side_stuff/Side-stuff/FoodTruckPOS/FoodTruckPOS.Tests/obj/Debug/net10.0/FoodTruckPOS.Tests.AssemblyInfo.cs
+/Users/allan/Documents/side_stuff/Side-stuff/FoodTruckPOS/FoodTruckPOS.Tests/obj/Debug/net10.0/FoodTruckPOS.Tests.csproj.CoreCompileInputs.cache
+/Users/allan/Documents/side_stuff/Side-stuff/FoodTruckPOS/FoodTruckPOS.Tests/obj/Debug/net10.0/FoodTruckPOS.Tests.sourcelink.json
+/Users/allan/Documents/side_stuff/Side-stuff/FoodTruckPOS/FoodTruckPOS.Tests/obj/Debug/net10.0/FoodTruckPOS.Tests.dll
+/Users/allan/Documents/side_stuff/Side-stuff/FoodTruckPOS/FoodTruckPOS.Tests/obj/Debug/net10.0/refint/FoodTruckPOS.Tests.dll
+/Users/allan/Documents/side_stuff/Side-stuff/FoodTruckPOS/FoodTruckPOS.Tests/obj/Debug/net10.0/FoodTruckPOS.Tests.pdb
+/Users/allan/Documents/side_stuff/Side-stuff/FoodTruckPOS/FoodTruckPOS.Tests/obj/Debug/net10.0/FoodTruckPOS.Tests.genruntimeconfig.cache
+/Users/allan/Documents/side_stuff/Side-stuff/FoodTruckPOS/FoodTruckPOS.Tests/obj/Debug/net10.0/ref/FoodTruckPOS.Tests.dll

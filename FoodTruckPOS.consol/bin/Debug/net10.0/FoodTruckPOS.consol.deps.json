@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "FoodTruckPOS.consol/1.0.0": {
+        "dependencies": {
+          "FoodTruckPOS.Core": "1.0.0",
+          "FoodTruckPOS.Services": "1.0.0"
+        },
+        "runtime": {
+          "FoodTruckPOS.consol.dll": {}
+        }
+      },
+      "FoodTruckPOS.Core/1.0.0": {
+        "runtime": {
+          "FoodTruckPOS.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "FoodTruckPOS.Services/1.0.0": {
+        "dependencies": {
+          "FoodTruckPOS.Core": "1.0.0"
+        },
+        "runtime": {
+          "FoodTruckPOS.Services.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FoodTruckPOS.consol/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FoodTruckPOS.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FoodTruckPOS.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

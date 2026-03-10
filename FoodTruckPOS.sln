@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodTruckPOS.consol", "FoodTruckPOS.consol\FoodTruckPOS.consol.csproj", "{608883E9-800F-43FF-9C5F-F6CDE2DC0E93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodTruckPOS.Core", "FoodTruckPOS.Core\FoodTruckPOS.Core.csproj", "{9293BADF-1303-4E43-A41A-F460601EB86D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodTruckPOS.Services", "FoodTruckPOS.Services\FoodTruckPOS.Services.csproj", "{4D18BDEE-F945-448C-BE34-A90C2F8E7B37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodTruckPOS.Tests", "FoodTruckPOS.Tests\FoodTruckPOS.Tests.csproj", "{B4EBDA13-BE88-4499-A022-9CB36D689458}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{608883E9-800F-43FF-9C5F-F6CDE2DC0E93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{608883E9-800F-43FF-9C5F-F6CDE2DC0E93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{608883E9-800F-43FF-9C5F-F6CDE2DC0E93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{608883E9-800F-43FF-9C5F-F6CDE2DC0E93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9293BADF-1303-4E43-A41A-F460601EB86D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9293BADF-1303-4E43-A41A-F460601EB86D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9293BADF-1303-4E43-A41A-F460601EB86D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9293BADF-1303-4E43-A41A-F460601EB86D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D18BDEE-F945-448C-BE34-A90C2F8E7B37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D18BDEE-F945-448C-BE34-A90C2F8E7B37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D18BDEE-F945-448C-BE34-A90C2F8E7B37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D18BDEE-F945-448C-BE34-A90C2F8E7B37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4EBDA13-BE88-4499-A022-9CB36D689458}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4EBDA13-BE88-4499-A022-9CB36D689458}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4EBDA13-BE88-4499-A022-9CB36D689458}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4EBDA13-BE88-4499-A022-9CB36D689458}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
