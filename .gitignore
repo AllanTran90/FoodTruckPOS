@@ -1,0 +1,44 @@
+# Build folders
+bin/
+obj/
+
+# Rider / IntelliJ
+.idea/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userprefs
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Test results
+TestResults/
+
+# NuGet packages
+*.nupkg
+packages/
+
+# Environment files
+.env
+
+# Rider cache
+*.sln.iml
+
+# Coverage
+coverage/
+*.coverage
+*.coveragexml
+
+# Publish
+publish/
+
+# Temporary files
+*.tmp
+*.temp
